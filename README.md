@@ -1,4 +1,4 @@
-# Data-Science-Projetcs
+# Data-Science-Project
 📌 Project Overview - This project analyzes absenteeism patterns among employees. The goal is to clean and explore the dataset, identify trends, and extract meaningful insights.
 
 **Dataset Information**
